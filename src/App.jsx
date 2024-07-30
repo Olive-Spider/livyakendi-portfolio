@@ -7,7 +7,7 @@ import Projects from "./projects/Projects.jsx";
 import Contact from "./contact/Contact.jsx";
 import "./styles/app.css";
 import Background from "./background/Background.jsx";
-// import PlayerStats from "./playerStats/PlayerStats.js";
+import PlayerStats from "./playerstats/PlayerStats.jsx";
 
 const App = () => {
   return (
@@ -20,7 +20,7 @@ const App = () => {
         <Route path="/projects" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-      {/* <PlayerStats /> */}
+      <PlayerStats />
     </Router>
   );
 };
