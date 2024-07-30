@@ -1,9 +1,13 @@
-// import React from 'react'
+// import React from "react";
+// import ContactMenu from "./ContactMenu";
+// import "../styles/contact.css";
 
-export default function Contact() {
+const Contact = () => {
   return (
-    <div>
-      
-    </div>
-  )
-}
+    <>
+      {/* <ContactMenu /> */}
+    </>
+  );
+};
+
+export default Contact;
