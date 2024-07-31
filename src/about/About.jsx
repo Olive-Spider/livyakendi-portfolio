@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { Component } from "react";
 import Avatar from "../avatar/Avatar.jsx";
 import AboutMenu from "./AboutMenu.jsx";
 
