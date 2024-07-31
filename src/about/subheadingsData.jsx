@@ -11,13 +11,12 @@ const subheadingsData = {
             shift ignited a passion for the ever-evolving world of technology
             and its potential to reshape industries.
             <br />
-            <br />
             Now, with a focus in software development, I'm leveraging my
             problem-solving skills honed in engineering to tackle new challenges
             and create innovative solutions. I'm constantly seeking to expand my
             knowledge in web and software development.
             <br />
-            <br />I also have expertise as a Virtual Assistant.
+            I also have expertise as a Virtual Assistant.
           </p>
         </>
       ),
