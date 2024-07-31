@@ -4,18 +4,20 @@ import projectThree from "../assets/project-3.png";
 
 const projects = {
   1: {
-    title: "SoMe Platform",
+    title: "JavaScript | Tailwind CSS | VueJS",
     image: projectOne,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          TTL, based in Kenya, pioneers African music on the global stage,
+          empowering indie artists and labels in the digital realm. With a
+          dynamic team of DJs, producers, radio hosts, and entrepreneurs, TTL
+          stands at Africa's crossroads of opportunity.
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "https://github.com/Olive-Spider/music-site",
+    demo: "https://oes-music.netlify.app/",
   },
   2: {
     title: "Productivity App",

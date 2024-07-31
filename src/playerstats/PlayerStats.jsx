@@ -10,6 +10,12 @@ const PlayerStats = () => {
         <span id="playerStats__lines__thin"></span>
       </div>
       <h2>Fullstack Developer</h2>
+      <br />
+      <div>
+        <a href="/Livya Kendi Kiruja Resume.pdf" download="Livya Kendi Kiruja Resume.pdf" target="_blank">
+          <button id="button">Download Resume</button>
+        </a>
+      </div>
     </div>
   );
 };
