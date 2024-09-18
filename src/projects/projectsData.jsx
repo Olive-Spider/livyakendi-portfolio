@@ -1,5 +1,5 @@
 import projectOne from "../assets/project-1.png";
-import projectTwo from "../assets/project-2.png";
+import projectTwo from "../assets/nexcent.png";
 import projectThree from "../assets/project-3.png";
 
 const projects = {
@@ -20,18 +20,17 @@ const projects = {
     demo: "https://oes-music.netlify.app/",
   },
   2: {
-    title: "Productivity App",
+    title: "Nexcent",
     image: projectTwo,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Nexcent is a simple landing page project I used to demonstrate my ReactJS and Tailwind CSS skills.
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "https://github.com/Olive-Spider/nexcent",
+    demo: "https://nexcent-nine-eta.vercel.app/",
   },
   3: {
     title: "Food Delivery App",
