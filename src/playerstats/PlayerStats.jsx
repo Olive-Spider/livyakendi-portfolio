@@ -29,7 +29,7 @@ const PlayerStats = () => {
       <h2>Fullstack Developer</h2>
       <div id="playerStats__buttons">
         <a 
-          href="https://resume.showwcase.com/olive-spider/6681.pdf?v=1722459885997" 
+          href="https://docs.google.com/document/d/1rJfgFdl_s-YpKqHS_aeeBw0iOp0jn5lq059CkCm9ggw/edit?usp=sharing" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="playerStats__button"
