@@ -20,7 +20,7 @@ const projects = {
     demo: "https://oes-music.netlify.app/",
   },
   2: {
-    title: "Nexcent",
+    title: "JavaScript | Tailwind CSS | ReactJS",
     image: projectTwo,
     description: (
       <>
