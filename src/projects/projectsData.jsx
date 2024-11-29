@@ -1,9 +1,36 @@
 import projectOne from "../assets/project-1.png";
 import projectTwo from "../assets/nexcent.png";
-import projectThree from "../assets/project-3.png";
+import projectThree from "../assets/project3.png";
+import projectFour from "../assets/project4.png";
 
 const projects = {
   1: {
+    title: "JavaScript | Tailwind CSS | VueJS | TypeScript",
+    image: projectFour,
+    description: (
+      <>
+        <p>
+        RTMS aims to elevate African rugby by using data and AI to identify and develop talent. Our platform empowers teams and players with precise, accessible tools for talent tracking and development, transforming how rugby is managed across the continent.
+        </p>
+      </>
+    ),
+    github: "https://github.com/Olive-Spider/",
+    demo: "https://rtms-website-fleks-projects.vercel.app/",
+  },
+  2: {
+    title: "JavaScript | Tailwind CSS | VueJS",
+    image: projectThree,
+    description: (
+      <>
+        <p>
+        Lex.ai is a Legal Assistant that will answer any questions about any Judgements From Supreme Court or Court of Appeal of Kenya.
+        </p>
+      </>
+    ),
+    github: "https://github.com/Olive-Spider",
+    demo: "https://lexaikenya.com/",
+  },
+  3: {
     title: "JavaScript | Tailwind CSS | VueJS",
     image: projectOne,
     description: (
@@ -19,7 +46,7 @@ const projects = {
     github: "https://github.com/Olive-Spider/music-site",
     demo: "https://oes-music.netlify.app/",
   },
-  2: {
+  4: {
     title: "JavaScript | Tailwind CSS | ReactJS",
     image: projectTwo,
     description: (
@@ -31,20 +58,6 @@ const projects = {
     ),
     github: "https://github.com/Olive-Spider/nexcent",
     demo: "https://nexcent-nine-eta.vercel.app/",
-  },
-  3: {
-    title: "Food Delivery App",
-    image: projectThree,
-    description: (
-      <>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        </p>
-      </>
-    ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
   },
 };
 
