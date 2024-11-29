@@ -24,6 +24,17 @@ const subheadingsData = {
   ],
   2: [
     {
+      title: "Virtual Assistant Certification",
+      content: (
+        <>
+          <p>July - September 2024
+            <br />
+            ALX Africa
+          </p>
+        </>
+      ),
+    },
+    {
       title: "Software Engineering Certification",
       content: (
         <>
